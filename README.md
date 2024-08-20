@@ -7,6 +7,8 @@
 
 <img align="right" width="400" alt="suman0702" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" />
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=sairamsumanbathini&label=Profile%20views&color=0e75b6&style=flat" alt="sairamsumanbathini" /> </p>
+
 <p align="left"> <a href="https://twitter.com/bathini suman" target="blank"><img src="https://img.shields.io/twitter/follow/bathini suman?logo=twitter&style=for-the-badge" alt="bathini suman" /></a> </p>
 
 - 📫 How to reach me **sairramsuman@gmail.com**
