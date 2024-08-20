@@ -5,7 +5,7 @@
 <h3 align="center">A passionate Data Analyst from India</h3>
 
 
-<p align="Right" >  <img width="500" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="suman0702" /> </p>
+<p align="Right">  <img width="500" src="https://i.pinimg.com/originals/18/a4/94/18a4949fc9c8067172d3b96e302e7097.gif" alt="suman0702" /> </p>
 <p align="left"> <a href="https://twitter.com/bathini suman" target="blank"><img src="https://img.shields.io/twitter/follow/bathini suman?logo=twitter&style=for-the-badge" alt="bathini suman" /></a> </p>
 
 - 📫 How to reach me **sairramsuman@gmail.com**
